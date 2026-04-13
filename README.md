@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Developer Banner" width="100%">
+</p>
+
 <h1 align="center">Hi there! 👋</h1>
 
 <h2 align="center">🛠 Разработчик | Скрипты, Боты, TMA, ИИ и IoT</h2>
