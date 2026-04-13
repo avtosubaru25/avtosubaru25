@@ -8,7 +8,10 @@
 
 <p align="center">
   <a href="https://t.me/alligatorCCCP">
-    <img alt="Telegram Contact" src="https://img.shields.io/badge/Заказать_проект-Telegram_@alligatorCCCP-2CA5E0?style=for-the-badge&logo=telegram">
+    <img alt="Telegram Contact" src="https://img.shields.io/badge/Связь_со_мной-Telegram_@alligatorCCCP-2CA5E0?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://t.me/alligatorCCCP">
+    <img alt="Telegram Channel" src="https://img.shields.io/badge/Мой_ТГ_канал-@alligatorCCCP-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
 
@@ -53,5 +56,7 @@
 ---
 
 <p align="center">
-  🤝 <b>Открыт к сотрудничеству!</b> Если у вас есть идея проекта или нужна автоматизация бизнеса — пишите: <b><a href="https://t.me/alligatorCCCP">@alligatorCCCP</a></b>
+  🤝 <b>Открыт к сотрудничеству!</b> Если у вас есть идея проекта или нужна автоматизация бизнеса — пишите:<br>
+  💬 <b>Личный Telegram: <a href="https://t.me/alligatorCCCP">@alligatorCCCP</a></b><br>
+  📢 <b>Мой ТГ канал: <a href="https://t.me/alligatorCCCP">@alligatorCCCP</a></b>
 </p>
